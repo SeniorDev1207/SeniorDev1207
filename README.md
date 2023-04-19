@@ -1,5 +1,5 @@
 <div align="center" style="position: relative;">
-  <img align="center" src="./1.jpg" style = "width: 100%; height: 80%;"/>
+  <img align="center" src="./1.jpg" style = "width: 50%; height: 50%;"/>
   <h1 style="position: absolute; color: black; bottom: 0px; transform: translate(-50%, 0); left: 50%">Senior Fullstack developer</h1>
 </div>
 
